@@ -7,10 +7,10 @@ Project members :
   
 # Description :
 * Name of Project: Voting System Project
-Language:   PHP
-Databases used: MySQL
-Browser used:  Google Chrome,  Mozilla
-Software used:  XAMPP    
+* Language:   PHP
+*  Databases used: MySQL
+* Browser used:  Google Chrome,  Mozilla
+* Software used:  XAMPP    
 
   
 # Features of  Voting System
